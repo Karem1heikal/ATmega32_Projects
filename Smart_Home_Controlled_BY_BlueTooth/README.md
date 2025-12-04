@@ -38,7 +38,7 @@ It also includes password-based access to secure home control.
 
 Below is the circuit diagram designed and simulated using **Proteus**:
 
-![Smart Home System](smarthome.png)
+![Smart Home System](smarthome.jpg)
 
 > The design includes proper schematic wiring, VCC/GND rail organization, labels, and signal flow clarity.
 
